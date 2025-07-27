@@ -1,4 +1,7 @@
+<span style="font-size:8px;">This is really small text 
+
 Name: Uwamahoro Christa
+
 ID: 25869
            Assignment
 # Introduction 
@@ -71,6 +74,6 @@ X-Axis (fare_amount and bins): Fare amounts grouped into bins.
 Y-Axis (Histogram Count): Number of trips within each fare bin. 
 Green Bars: Show how many rides fall into each fare range.
 <img width="514" height="322" alt="histogram" src="https://github.com/user-attachments/assets/9bb79d7b-ed82-4d90-adfb-c4903d9d69a9" />
-
+ </span>
 
 
