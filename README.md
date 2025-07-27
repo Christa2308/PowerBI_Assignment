@@ -6,14 +6,14 @@ ID: 25869
 Link: https://drive.google.com/drive/folders/1YZPujYWeUzXJO8al9nhWNJ6ytKzZyl7s?usp=sharing
  
   # Introduction 
-# 1. Data Understanding and Preparation
+### 1. Data Understanding and Preparation
 We load the Uber Fares dataset into a Pandas DataFrame using Python to prepare it for analysis. A DataFrame provides a structured way to store and manipulate tabular data, making it easy to explore, clean the dataset and handle missing values. 
 <img width="1041" height="776" alt="codes for clean and missing data" src="https://github.com/user-attachments/assets/cfa7e0fe-bad6-4c49-aeb6-ef20e50d22be" />
 
 It's Output
 <img width="1325" height="825" alt="output for clean and missing data" src="https://github.com/user-attachments/assets/573f9030-7ff7-493d-bd34-6c9c599c764b" />
 
-# 2. Exploratory Data Analysis (EDA)
+### 2. Exploratory Data Analysis (EDA)
 We then perform Exploratory Data Analysis (EDA) to gain an initial understanding of the data. EDA helps identify the dataset's structure, dimensions, and variable types, and provides insight into the quality of the data by checking for missing values, duplicates, and inconsistencies. 
 <img width="931" height="420" alt="descriptive statistics" src="https://github.com/user-attachments/assets/6605a94e-a1bc-4646-99a5-a7c561f4c196" />
 
@@ -23,7 +23,7 @@ It's Output
 The following is a visualization showing fare distribution patterns
 <img width="800" height="500" alt="Fare distribution" src="https://github.com/user-attachments/assets/6715c0fa-fd18-4cb8-8a88-6c41675a2d26" />
 
-# 3. Feature Engineering 
+### 3. Feature Engineering 
 We enhance the Uber Fares dataset by creating new analytical features that provide deeper insights into ride patterns. From the pickup timestamp, we extract hour, day, and month, categorize rides by day of the week, and create a peak/off‑peak time indicator to distinguish busy travel periods 
 <img width="831" height="343" alt="new analytic features" src="https://github.com/user-attachments/assets/e09e9011-41ec-4687-be08-340b2d505808" />
 
@@ -36,7 +36,7 @@ After feature creation, we identify and encode categorical variables (such as da
 It's Output
 <img width="1557" height="296" alt="output for Identify and properly encode categorical variables" src="https://github.com/user-attachments/assets/9ce65526-cd4d-422c-bb6e-e781f7625194" />
 
-# 4. Data Analysis in Power BI and Dashboard Creation in Power BI
+### 4. Data Analysis in Power BI and Dashboard Creation in Power BI
 In this stage, we use Power BI Desktop to analyze and visualize the enhanced Uber Fares dataset. The cleaned dataset is imported into Power BI to create interactive and professional dashboards that provide insights into ride and fare patterns.
 <img width="1102" height="886" alt="import dataset in PBI" src="https://github.com/user-attachments/assets/2e8519ae-c63f-4b84-a503-deb7843380dd" />
 
