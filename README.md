@@ -1,7 +1,8 @@
- 
-<span style="font-size:10px;">Name: Uwamahoro Christa  
+
+Name: Uwamahoro Christa  
 
 ID: 25869
+ Link: https://drive.google.com/drive/folders/1YZPujYWeUzXJO8al9nhWNJ6ytKzZyl7s?usp=sharing
            Assignment
 # Introduction 
 # 1. Data Understanding and Preparation
@@ -73,5 +74,4 @@ X-Axis (fare_amount and bins): Fare amounts grouped into bins.
 Y-Axis (Histogram Count): Number of trips within each fare bin. 
 Green Bars: Show how many rides fall into each fare range.
 <img width="514" height="322" alt="histogram" src="https://github.com/user-attachments/assets/9bb79d7b-ed82-4d90-adfb-c4903d9d69a9" />
-  
-</span> 
+
