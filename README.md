@@ -35,13 +35,16 @@ The following is a visualization showing fare distribution patterns
 
 ### 3. Feature Engineering 
 We enhance the Uber Fares dataset by creating new analytical features that provide deeper insights into ride patterns. From the pickup timestamp, we extract hour, day, and month, categorize rides by day of the week, and create a peak/off‑peak time indicator to distinguish busy travel periods 
+
 <img width="831" height="343" alt="new analytic features" src="https://github.com/user-attachments/assets/e09e9011-41ec-4687-be08-340b2d505808" />
 
 It's Output
+
 <img width="634" height="315" alt="output for new analytical features" src="https://github.com/user-attachments/assets/046d69e0-67ed-4a1c-aead-dbe7bfd04f82" />
 
 After feature creation, we identify and encode categorical variables (such as day of week, month, and peak time) to make the dataset ready for analysis and visualization in Power BI. 
 <img width="1313" height="323" alt="Identify and properly encode categorical variables" src="https://github.com/user-attachments/assets/26981e3f-15ed-4803-a1a4-771b7654b225" />
+
 
 It's Output
 <img width="1557" height="296" alt="output for Identify and properly encode categorical variables" src="https://github.com/user-attachments/assets/9ce65526-cd4d-422c-bb6e-e781f7625194" />
@@ -54,16 +57,20 @@ This dashboard provides a comprehensive overview of Uber ride and fare patterns 
  <img width="1072" height="667" alt="Overview" src="https://github.com/user-attachments/assets/092d3e48-4d86-4d9e-9f8e-084c47291a24" />
 
  Visualizations
-1. Donut Charts 
+1. Donut Charts
+ 
 Average Fare by Hour – Shows average fare distribution across different hours. 
 Average Fare by Month – Shows fare variation across months.
 2. Area Chart 
+
 Ride Count by Day – Displays daily ride trends for the month, showing peak and off-peak demand.
 3. Table – Days of the Week Analysis 
+
 Displays day_of_week, Average Fare, Average Fare by Peak, Ride Count, and Total Fare Amount.
 <img width="1057" height="538" alt="Visualization donut" src="https://github.com/user-attachments/assets/4bee4a6b-072d-4ed6-b179-53137c712c2a" />
 
-4. Box & Whisker Chart 
+4. Box & Whisker Chart
+ 
 Total Fare Amount by Hour and Year – Shows fare distribution patterns over multiple years, highlighting variability and outliers.
  <img width="492" height="264" alt="Box plot" src="https://github.com/user-attachments/assets/2ce4274d-3c8b-4715-8349-0e2b7d0fe054" />
  
@@ -80,7 +87,8 @@ Average fares (during peak times) by hour across years (2009–2015).
 The box shows fare variations, median, and outliers.
 <img width="1067" height="329" alt="box plot 2" src="https://github.com/user-attachments/assets/e36a4059-2cdd-4d51-8b60-ec280e4e5d52" />
 
-Histogram with Scatter Overlay
+5. Histogram with Scatter Overlay
+
 X-Axis (fare_amount and bins): Fare amounts grouped into bins. 
 Y-Axis (Histogram Count): Number of trips within each fare bin. 
 Green Bars: Show how many rides fall into each fare range.
