@@ -1,11 +1,18 @@
+Repository Name: PowerBI_Assignment
 
-Name: Uwamahoro Christa  
+Owner: Christa2308
 
-ID: 25869
+Repository URL: https://github.com/your-username/your-repo-name
+
+Visibility: Public 
+
+Created On:27-07-2025
+
+Last Updated: 27 -07-2025 
 
 Link: https://drive.google.com/drive/folders/1YZPujYWeUzXJO8al9nhWNJ6ytKzZyl7s?usp=sharing
  
-  # Introduction 
+  ## Introduction 
 ### 1. Data Understanding and Preparation
 We load the Uber Fares dataset into a Pandas DataFrame using Python to prepare it for analysis. A DataFrame provides a structured way to store and manipulate tabular data, making it easy to explore, clean the dataset and handle missing values. 
 <img width="1041" height="776" alt="codes for clean and missing data" src="https://github.com/user-attachments/assets/cfa7e0fe-bad6-4c49-aeb6-ef20e50d22be" />
